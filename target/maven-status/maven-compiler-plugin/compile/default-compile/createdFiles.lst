@@ -4,7 +4,9 @@ onlineShop\model\Authorities.class
 onlineShop\model\CartItem.class
 onlineShop\model\ShippingAddress.class
 onlineShop\model\SalesOrder.class
+onlineShop\SecurityConfig.class
 onlineShop\ApplicationConfig.class
+onlineShop\controller\HomePageController.class
 onlineShop\model\Cart.class
 onlineShop\model\Customer.class
 onlineShop\model\Product.class

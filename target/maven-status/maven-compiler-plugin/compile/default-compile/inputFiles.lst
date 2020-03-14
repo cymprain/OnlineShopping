@@ -1,7 +1,9 @@
 G:\workspace-jee-github\onlineShop\src\main\java\onlineShop\model\ShippingAddress.java
 G:\workspace-jee-github\onlineShop\src\main\java\onlineShop\model\Cart.java
 G:\workspace-jee-github\onlineShop\src\main\java\onlineShop\model\BillingAddress.java
+G:\workspace-jee-github\onlineShop\src\main\java\onlineShop\SecurityConfig.java
 G:\workspace-jee-github\onlineShop\src\main\java\onlineShop\model\CartItem.java
+G:\workspace-jee-github\onlineShop\src\main\java\onlineShop\controller\HomePageController.java
 G:\workspace-jee-github\onlineShop\src\main\java\onlineShop\model\Customer.java
 G:\workspace-jee-github\onlineShop\src\main\java\onlineShop\ApplicationConfig.java
 G:\workspace-jee-github\onlineShop\src\main\java\onlineShop\model\Authorities.java
